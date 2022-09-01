@@ -12,13 +12,13 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
-        <p className="description">
+
     
    <h1>MyAnimeGuru</h1>
 <p>My first paragraph.</p>
     <a href="https://www.myanimeguru.com">MyAnimeGuru</a>
 
-        </p>
+
       </main>
 
       <Footer />
